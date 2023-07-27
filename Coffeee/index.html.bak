@@ -1,0 +1,270 @@
+<!doctype html>
+<html>
+<meta charset="UTF-8">
+<head>
+
+<title>ayan</title>
+<link rel="stylesheet" text="style/css" href="css/style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+<div class="main">
+<div class="container">
+<div class="logo-1">
+<ul>
+<li><a href="#"><img src="images/1st.png"></a></li>
+<li><a href="#"><img src="images/2nd.png"></a></li>
+<li><a href="#"><img src="images/3rd.png"></a></li>
+<li><a href="#"><img src="images/4th.png"></a></li>
+<li><a href="#"><img src="images/5th.png"></a></li>
+</ul>
+</div>
+<div class="logo-2">
+<img src="images/6th.png">
+
+</div>
+<div class="logo-3">
+<img src="images/7th.png">
+<a href="#">7052525887</a>
+<a href="#" class="active">TESTY COFFEE</a>
+
+</div>
+</div>
+</div>
+<div class="nav">
+<div class="container">
+<div class="right">
+<ul>
+<li><a href="#" class="active">HOME</a></li>
+<li><a href="#">ABOUT</a></li>
+<li><a href="#">RESERVATION</a></li>
+<li><a href="#">PAGES</a></li>
+<li><a href="#">SHOPE</a></li>
+<li><a href="#">CONTACT</a></li>
+</ul>
+
+</div>
+<div class="left">
+<ul>
+<li><a href="#"><img src="images/8th.png"></a></li>
+<li><a href="#"><img src="images/9th.png"></a></li>
+<li><a href="#"><img src="images/10th.png"></a></li>
+</ul>
+
+</div>
+</div>
+</div>
+<div class="changing">
+<div class="container">
+<div class="company">
+<h1>"CHANGING DISTINY<br> BY CHANGING IMAGE"</h1>
+<h2>Our company is called source coffee<br>"The Original</h2>
+<a href="#" class="active">TESTY COFFEE</a>
+<a href="#">READ MORE</a>
+</div>
+<div class="image">
+<img src="images/15th.png">
+
+</div>
+</div>
+</div>
+<div class="image-1">
+<div class="container">
+<div class="image-2">
+<img src="images/16th.png">
+</div>
+<div class="image-3">
+<img src="images/17th.png">
+</div>
+<div class="image-4">
+<img src="images/19.png">
+</div>
+</div>
+</div>
+<div class="story">
+<div class="container">
+<div class="right-1">
+<img src="images/15th.png">
+
+
+</div>
+<div class="left-1">
+<a href="#">OUR STORY</a>
+<h1>HOW WE PREPARE OUR BEANS<br> READ OUR STORY</h1>
+<p>ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan </p>
+<p>ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan ayan</p>
+<a href="#">TEASTY COFFEE</a>
+</div>
+</div>
+</div>
+<div class="grade">
+<div class="container">
+<a href="#">TOP GRADE</a>
+<h1>WORLD TOP GRADE</h1>
+<div class="box">
+<img src="images/21.png">
+
+<h2>AMERICANO GRADE </h2>
+<P>lorem ipsum dolor sit amet.consectetur adipishicing elit</P>
+
+</div>
+<div class="box">
+<img src="images/22.png">
+
+<h2>AREBICA GREEN </h2>
+<P>lorem ipsum dolor sit amet.consectetur adipishicing elit</P>
+
+</div>
+<div class="box">
+<img src="images/23.png">
+
+<h2>MIXED ROSTED </h2>
+<P>lorem ipsum dolor sit amet.consectetur adipishicing elit</P>
+
+</div>
+<div class="box">
+<img src="images/24.png">
+
+<h2>ROBASTA ROSTED </h2>
+<P>lorem ipsum dolor sit amet.consectetur adipishicing elit</P>
+
+</div>
+</div>
+</div>
+<div class="form">
+<div class="container">
+<a href="#">MENU</a>
+<h1>CAFENA POPULAR MENU</h1>
+<div class="name-1">
+<input type="text" placeholder="AMERICAN ROSTED GRED" class="name-2">
+<input type="text" placeholder="JAPAANS COFFEE GRED" class="name-2">
+<input type="text" placeholder="WERGIN COFFEE GRED" class="name-2">
+<input type="text" placeholder="JAPAANS COFFEE GRED" class="name-2">
+<input type="text" placeholder="CAFE AULAINT COFFEE" class="name-2">
+<input type="text" placeholder="ESPRESSO RISTRETTO" class="name-2">
+</div>
+</div>
+</div>
+<div class="product">
+<div class="container">
+<div class="papular">
+<a href="#">POPULAR PRODUCT</a>
+<h1>CAFENA POPULAR PRODUCT</h1>
+</div>
+<div class="all">
+<a href="#">VIW ALL PRODUCT</a>
+</div>
+</div>
+</div>
+<div class="product-image">
+<div class="container">
+<div class="p-image1">
+<img src="images/25.png">
+<p>COFFEE <i class="fa-solid fa-star" style="color:yellow;"></i>
+<i class="fa-solid fa-star" style="color:yellow;"></i>
+<i class="fa-solid fa-star" style="color:yellow;"></i>
+<i class="fa-regular fa-star"></i>
+<i class="fa-regular fa-star"></i></p>
+
+<h3>ESPRESSED RISTRETTO</h3>
+<h4>PREK -S125-OJ/JS5U</h4>
+</div>
+<div class="p-image2">
+
+<img src="images/27.png">
+<p>COFFEE <i class="fa-solid fa-star" style="color:yellow;"></i>
+<i class="fa-solid fa-star" style="color:yellow;"></i>
+<i class="fa-solid fa-star" style="color:yellow;"></i>
+<i class="fa-regular fa-star"></i>
+<i class="fa-regular fa-star"></i></p>
+
+<h3>ESPRESSED RISTRETTO</h3>
+<h4>PREK -S125-OJ/JS5U</h4>
+</div>
+<div class="p-image1">
+<img src="images/25.png">
+<p>COFFEE <i class="fa-solid fa-star" style="color:yellow;"></i>
+<i class="fa-solid fa-star" style="color:yellow;"></i>
+<i class="fa-solid fa-star" style="color:yellow;"></i>
+<i class="fa-regular fa-star"></i>
+<i class="fa-regular fa-star"></i></p>
+
+<h3>ESPRESSED RISTRETTO</h3>
+<h4>PREK -S125-OJ/JS5U</h4>
+</div>
+</div>
+</div>
+<div class="customer">
+<div class="container">
+<a href="#">CUSTOMER FEEDBACK</a>
+<h1>OUR CUSTOMER REVIEW</h1>
+<P>It is a none political And non-secatarain ayan khan<BR> orginisation That Aims A Impowering Diprowid And<BR> Underpriviledge Girls By Imparting Education And<BR> Life Skills Wich Allow Them To ayan ayan khan ayan<BR> Lead A Life Of Financial Independence With dighnity,</P>
+<img src="images/28.png">
+<p>SUBHANA AHEMD</p>
+</div>
+</div>
+<div class="cafena-news">
+<div class="container">
+<div class="news-1">
+<a href="#">NEWS & BLOG</a>
+<h1>CAFENA NEWS & BLOG</h1>
+</div>
+<div class="news-2">
+<a href="#">LEARN MORE</a>
+</div>
+</div>
+</div>
+<div class="news-image">
+<div class="container">
+<div class="news-image1">
+<img src="images/29.png">
+<p>BY RASALINA/LIFE/29 05 2022</p>
+<h3>Questions business must be able to answer</h3>
+<h4>READ MORE</h4>
+</div>
+<div class="news-image2">
+<img src="images/30.png">
+<p>BY RASALINA/LIFE/29 05 2022</p>
+<h3>Questions business must be able to answer</h3>
+<h4>READ MORE</h4>
+</div>
+<div class="news-image3">
+<img src="images/31.png">
+<p>BY RASALINA/LIFE/29 05 2022</p>
+<h3>Questions business must be able to answer</h3>
+<h4>READ MORE</h4>
+</div>
+</div>
+</div>
+<div class="contact">
+<div class="container">
+<div class="contact-1">
+<img src="images/34.png">
+<a href="#">PHONE:+91 7052525887</a>
+<img src="images/37.png">
+<a href="#">ADDRESS :NORTH WEST NEW</a>
+<div class="contact-12">
+<img src="images/6th.png">
+<p>orginisation That Aims A Impowering Diprowid And orginisation That Aims A Impowering Diprowid And Impowering Diprowid And orginisation</p>
+</div>
+</div>
+<div class="contact-2">
+<input type="text" name="fname" placeholder="First name" class="input-1">
+	
+ <i class="fa-brands fa-telegram"></i>
+<i class="fa-brands fa-twitter-square"></i>
+<i class="fa-brands fa-facebook-square"></i>
+<i class="fa-brands fa-instagram-square"></i>
+<i class="fa-brands fa-google-plus-square"></i>
+<i class="fa-brands fa-youtube-square"></i>
+</div>
+</div>
+</div>
+<div class="end">
+<div class="container">
+<p>Copyright @ 2022 sj financial 3 all rights resaercd disgine by <span>ayan</span></p>
+</div>
+</div>
+</body>
+
+</html>
